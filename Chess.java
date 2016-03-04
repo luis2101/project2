@@ -5,6 +5,7 @@ public class Chess
         Board board = new Board();
         board.print();
         System.out.println();
+        bjzbcjxzvbz
         //board.addRandomPiece();
         board.print();
     }
